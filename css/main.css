@@ -96,7 +96,24 @@ textarea {
    ========================================================================== */
 
 
+/*footer code */
+footer{
+  margin-bottom:2px;
+   bottom:2px;
+}
 
+#contact{
+margin-top: 5%;
+   bottom:4%;
+}
+#code{
+    font-size:25px;
+font-weight: bolder;
+}
+.footer>h1{
+  font-size:19px;
+}
+/*footer code */
 
 
 
