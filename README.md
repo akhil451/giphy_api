@@ -1,2 +1,2 @@
 # giphy_api
-![](https://www.dropbox.com/s/6r4st2klysebggu/FireShot%20Capture%201%20-%20%20-%20file____home_akhil_Desktop_porn_api_practice_giphy_giphy_api_index.html.png?dl=0)
+![](https://cloud.githubusercontent.com/assets/16731293/22862392/8bfbe8da-f153-11e6-9da7-4b6d34eb46cf.png)
